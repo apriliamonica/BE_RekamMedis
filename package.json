@@ -1,0 +1,21 @@
+{
+  "name": "be_rekammedis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apriliamonica/BE_RekamMedis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/apriliamonica/BE_RekamMedis/issues"
+  },
+  "homepage": "https://github.com/apriliamonica/BE_RekamMedis#readme"
+}
