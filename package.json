@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/apriliamonica/BE_RekamMedis/issues"
   },
-  "homepage": "https://github.com/apriliamonica/BE_RekamMedis#readme"
+  "homepage": "https://github.com/apriliamonica/BE_RekamMedis#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.14.0"
+  }
 }
